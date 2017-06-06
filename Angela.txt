@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi Angela! You are my mother.
+=======
+Hello Heidy! You are my mother.
+>>>>>>> feat
