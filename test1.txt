@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is a test.
+=======
+This is a test file.
+>>>>>>> new
 Git tracks.
 Hi Angela!
 You will be 14 years old this summer.
