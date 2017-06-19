@@ -1,8 +1,5 @@
 This is a test file.
 Git tracks changes.
 Hi angela!
-<<<<<<< HEAD
 You will be 14 years old in July.
-=======
-You are 14 years old in July.
->>>>>>> test
+
